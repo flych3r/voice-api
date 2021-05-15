@@ -49,4 +49,4 @@ To run locally:
 - install the api requirements: `pip install -r requirements.txt`.
 - run: `bash start.sh`
 
-In the voice interface, add `VOICE_URL=http://localhost:5025/{}` to the `.env` file.
+In the voice interface, add `VOICE_URL=http://localhost:5025` to the `.env` file.
