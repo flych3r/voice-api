@@ -1,6 +1,6 @@
-# Agendador Voice Server
+# Voice API
 
-This is the server responsible for STT and TTS
+This is the API responsible for STT and TTS
 
 The endpoins are:
 
